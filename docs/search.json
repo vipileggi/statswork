@@ -19,5 +19,12 @@
     "title": "About Me",
     "section": "",
     "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is about my statistical work"
   }
 ]
