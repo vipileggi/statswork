@@ -10,9 +10,17 @@ about:
 
 ## Goals
 
+Collaborate on solving wastewater problems using statistics
+
 ## Education
 
+Ph.D. in Wastewater engineering with thesis on anaerobic membrane bioreactor to treat municipal sludge.
+
 ## Experience
+
+Worked on wastewater epidemiology investigating COVID in wastewater.
+Design Guidelines for wastewater treatment.
+Statistical review and reporting results in reports and publications.
 
 :::
 
