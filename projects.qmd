@@ -2,8 +2,14 @@
 title: "Projects"
 ---
 
-## Project 1
+## Wastewater Epidemiology COVID
 
-## Project 2
+Work on large data sets to assess statistical trends during COVID to inform public health units in Ontario to make decisions.
 
-## Project 3
+## Reporting Wastewater Surveillance COVID Results
+
+Developed visual and statistical tools to report on wastewater surveillance COVID results. 
+
+## Performance of Decentralized Wastewater Technologies
+
+Reported based on a statistical technical review results of performance of decentralized onsite treatment technologies.
