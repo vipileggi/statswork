@@ -3,24 +3,25 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/vprofile.png
 ---
 
 :::{#me}
 
 ## Goals
 
-Collaborate on solving wastewater problems using statistics
+Collaborate on solving environmental issues using current statistical and analytical tools like the R language and environment for statistical computing within the RStudio IDE.
 
 ## Education
 
-Ph.D. in Wastewater engineering with thesis on anaerobic membrane bioreactor to treat municipal sludge. M.A.Sc in wasteater
+Ph.D. in Wastewater engineering with thesis on the use of anaerobic membrane bioreactors to treatment of municipal sludge. M.A.Sc in advanced wastewater treatment and applied management. B.A.Sc. in Civil Engineering.
 
 ## Experience
 
 Worked on wastewater epidemiology investigating COVID in wastewater.
-Design Guidelines for wastewater treatment.
-Statistical review and reporting results in reports and publications.
+Developed design guidelines for wastewater treatment.
+Statistical analysis and assessment with reporting and publications.
+Research in muicipal wastewater and sludge treatment.
 
 :::
 

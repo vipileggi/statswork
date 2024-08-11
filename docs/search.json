@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Vince Pileggi",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
     "section": "",
-    "text": "Vince Pileggi is wastewater engineer, adjunct professor, data scientist and uses applied statistical analytical skills heavily in his work. He uses R, RStudio, Quarto and GitHub proficiently for advanced research and authorship of publications and reports. Vince enjoys early morning jogging and food."
+    "text": "Publications\nPileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS EST Water 2, 2070–2083 (2022).\nYi Liu, Bei Wang, Vince Pileggi, Sheng Chang, Methods to recover and characterize microplastics in wastewater treatment plants, Case Studies in Chemical and Environmental Engineering, Volume 5, 2022,100183, ISSN 2666-0164"
   },
   {
     "objectID": "index.html",
@@ -49,6 +35,13 @@
     "text": "Worked on wastewater epidemiology investigating COVID in wastewater. Design Guidelines for wastewater treatment. Statistical review and reporting results in reports and publications."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Vince Pileggi",
+    "section": "",
+    "text": "Vince Pileggi is wastewater engineer, adjunct professor, data scientist and uses applied statistical analytical skills heavily in his work. He uses R, RStudio, Quarto and GitHub proficiently for advanced research and authorship of publications and reports. Vince enjoys early morning jogging and food."
+  },
+  {
     "objectID": "about.html#experince",
     "href": "about.html#experince",
     "title": "Vince Pileggi",
@@ -61,5 +54,19 @@
     "title": "Vince Pileggi",
     "section": "Education",
     "text": "Education\nUniversity of Waterloo | PhD in Wastewater Engineering 2008 - 2016"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3"
   }
 ]
