@@ -1,13 +1,6 @@
-# Applied Statistics in Wastewwater Engineering
+# Applied Statistics in Wastewater Engineering
 
 
-### Render the web site (RStudio)
-
-- [ ] 3. Use `browseURL("docs/index.html")` to view your site locally (or just open `docs/index.html` in a browser).
-
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
 ### Next steps
 
