@@ -1,0 +1,11 @@
+---
+title: "publications"
+---
+
+# Publications
+
+Pileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS
+EST Water 2, 2070–2083 (2022).
+
+Yi Liu, Bei Wang, Vince Pileggi, Sheng Chang, Methods to recover and characterize microplastics in wastewater treatment plants, Case Studies in Chemical and Environmental
+Engineering, Volume 5, 2022,100183, ISSN 2666-0164

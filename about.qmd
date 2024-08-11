@@ -1,5 +1,24 @@
 ---
-title: "About"
+title: "Vince Pileggi"
+about:
+  template: jolla
+  image: img/vprofile.jpg
+  links: 
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This site is about my statistical work
+Vince Pileggi is wastewater engineer, adjunct professor, data scientist and uses applied statistical analytical skills heavily in his work. He uses R, RStudio, Quarto and GitHub proficiently for advanced research and authorship of publications and reports. Vince enjoys early morning jogging and food.
+
+
+## Experince
+
+Scientific Programmer | University of Guelph, MECP | 2016 - Present
+
+## Education
+
+University of Waterloo | PhD in Wastewater Engineering 2008 - 2016
