@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Collaborate on solving environmental issues using current statistical and analytical tools like the R language and environment for statistical computing within the RStudio IDE.\n\n\n\nPh.D. in Wastewater engineering with thesis on the use of anaerobic membrane bioreactors for the treatment of municipal sludge Thesis. M.A.Sc in advanced wastewater treatment and applied management. B.A.Sc. in Civil Engineering. A professional engineer (P.Eng.) in the province of Ontario PEO. Currently pursuing accreditation as an Associate Statistician (A.Stat.) through the Canadian Statistical Society CSS.\n\n\n\nResearch in wastewater treatment (and sludge) for trace contaminants, microplastics and legacy pollutants. Worked on wastewater epidemiology investigating COVID in wastewater during the COVID pandemic. Developed design guidelines for wastewater treatment including extensive statistical analysis and assessment with reporting and publications. Actively engaged in supporting the regulatory role and oversight in Ontario related to municipal centralized and decentralized wastewater and sludge treatment.\n\nResearch Gate (RI Score: 339; Citations: 493; H-index: 10; Read: &gt; 10,750; Recommendations: 53) RG\nLinkedIn Lnk\nCurrently Under Development.. Thanks for checking out my web site!"
+    "text": "Collaborate on solving environmental issues using current statistical and analytical tools using the R language environment for statistical computing within the RStudio IDE.\n\n\n\nPh.D. in Wastewater engineering with thesis on the use of anaerobic membrane bioreactors for the treatment of municipal sludge Thesis. M.A.Sc in advanced wastewater treatment and applied management. B.A.Sc. in Civil Engineering. A professional engineer (P.Eng.) in the province of Ontario PEO. Currently pursuing accreditation as an Associate Statistician (A.Stat.) through the Canadian Statistical Society CSS.\n\n\n\nResearch in wastewater treatment (and sludge) for trace contaminants, microplastics and legacy pollutants. Worked on wastewater epidemiology investigating COVID in wastewater during the COVID pandemic. Developed design guidelines for wastewater treatment including extensive statistical analysis and assessment with reporting and publications. Actively engaged in supporting the regulatory role and oversight in Ontario related to municipal centralized and decentralized wastewater and sludge treatment.\n\nResearch Gate (RI Score: 339; Citations: 493; H-index: 10; Read: &gt; 10,750; Recommendations: 53) RG\nLinkedIn Lnk\nCurrently Under Development.. Thanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
     "href": "index.html#goals",
     "title": "About Me",
     "section": "",
-    "text": "Collaborate on solving environmental issues using current statistical and analytical tools like the R language and environment for statistical computing within the RStudio IDE."
+    "text": "Collaborate on solving environmental issues using current statistical and analytical tools using the R language environment for statistical computing within the RStudio IDE."
   },
   {
     "objectID": "index.html#education",
@@ -56,17 +56,31 @@
     "text": "Education\nUniversity of Waterloo | PhD in Wastewater Engineering | 2008 - 2016\nToronto Metropolitan University |MASc in Applied Science and Management | 2002 - 2007\nUniversity of Toronto | BASc in Civil Engineering | 1985 - 1989"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "Work on large data sets to assess statistical trends during COVID to inform public health units in Ontario to make decisions. The general data sets"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#wastewater-epidemiology-covid",
+    "href": "projects.html#wastewater-epidemiology-covid",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Work on large data sets to assess statistical trends during COVID to inform public health units in Ontario to make decisions. The general data sets"
+  },
+  {
+    "objectID": "projects.html#reporting-wastewater-surveillance-covid-results",
+    "href": "projects.html#reporting-wastewater-surveillance-covid-results",
+    "title": "Projects",
+    "section": "Reporting Wastewater Surveillance COVID Results",
+    "text": "Reporting Wastewater Surveillance COVID Results\nDeveloped visual and statistical tools to report on wastewater surveillance COVID results."
+  },
+  {
+    "objectID": "projects.html#performance-of-decentralized-wastewater-technologies",
+    "href": "projects.html#performance-of-decentralized-wastewater-technologies",
+    "title": "Projects",
+    "section": "Performance of Decentralized Wastewater Technologies",
+    "text": "Performance of Decentralized Wastewater Technologies\nReported based on a statistical technical review results of performance of decentralized onsite treatment technologies."
   }
 ]

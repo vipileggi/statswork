@@ -10,7 +10,7 @@ about:
 
 ## Goals
 
-Collaborate on solving environmental issues using current statistical and analytical tools like the R language and environment for statistical computing within the RStudio IDE.
+Collaborate on solving environmental issues using current statistical and analytical tools using the R language environment for statistical computing within the RStudio IDE.
 
 ## Education
 

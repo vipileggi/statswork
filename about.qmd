@@ -6,7 +6,7 @@ about:
   links: 
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://x.com/pileggi_vi24469
     - icon: github
       text: Github
       href: https://github.com
