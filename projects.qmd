@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Wastewater Epidemiology COVID
 
-Work on large data sets to assess statistical trends during COVID to inform public health units in Ontario to make decisions. The general data sets 
+Work on large data sets to assess statistical trends during COVID to inform public health units in Ontario to make decisions. The general data sets are available
 
 ## Reporting Wastewater Surveillance COVID Results
 
