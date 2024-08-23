@@ -11,6 +11,7 @@ website:
       - projects.qmd
       - about.qmd
       - publications.qmd
+      - CV2024.qmd
       
     tools:
       - icon: twitter
