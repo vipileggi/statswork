@@ -1,4 +1,13 @@
-# Reccent Publications
+# Curriculum Vitae
+
+## Education
+
+## Work Experience
+
+## Interests
+
+## Chronological List of Publications
+
 
 Pileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS
 EST Water 2, 2070–2083 (2022) [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestwater.2c00058).
