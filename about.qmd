@@ -4,9 +4,7 @@ about:
   template: jolla
   image: img/VPProfile2024.jpg
   links: 
-    - icon: twitter
-      text: twitter
-      href: https://x.com/pileggi_vi24469
+    
     - icon: github
       text: Github
       href: https://github.com
