@@ -1,9 +1,19 @@
-# Reccent Publications
+# Recent Publications and Reports with Synopsis of Statistics
 
-Pileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS
-EST Water 2, 2070–2083 (2022) [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestwater.2c00058).
+1.    Pileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS EST Water 2, 2070–2083 (2022) [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestwater.2c00058).
 
-Yi Liu, Bei Wang, Vince Pileggi, Sheng Chang, Methods to recover and characterize microplastics in wastewater treatment plants, Case Studies in Chemical and Environmental
-Engineering, Volume 5, 2022,100183, ISSN 2666-0164 [Liu et al, 2022](https://www.sciencedirect.com/science/article/pii/S2666016422000056)
+**Statistics**: 
 
-Vince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestengg.2c00005)
+**Key Statistical References**:
+
+**Sample R Script**
+
+
+2.    Vince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestengg.2c00005)
+
+**Statistics**: Detected and modeled microbial
+
+
+**Key Statistical References**:
+
+**R Script**

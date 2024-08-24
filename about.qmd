@@ -2,7 +2,7 @@
 title: "Vince Pileggi"
 about:
   template: jolla
-  image: img/vprofile.jpg
+  image: img/VPProfile2024.jpg
   links: 
     - icon: twitter
       text: twitter
