@@ -1,0 +1,33 @@
+---
+title: "Vince Pileggi"
+about:
+  template: jolla
+  image: img/VPProfile2024.jpg
+  links: 
+    
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Vince Pileggi is wastewater engineer, adjunct professor, data scientist and uses advanced applied statistical analytical skills heavily in his work. He uses R, RStudio, Quarto and GitHub proficiently for advanced research and authorship of publications and reports. Vince enjoys early morning jogging.
+
+
+## Experince
+
+Epidemiology Computational Statistical Products | MECP | 2021 - Present
+
+Researcher and Scientific Programmer | University of Guelph, MECP | 2016 - Present
+
+Author of Technical Guidance | MECP | 2002 - Present
+
+Technology Performance Reviewer | MECP | 2002 - Present
+
+
+## Education
+
+University of Waterloo | PhD in Wastewater Engineering | 2008 - 2016
+
+Toronto Metropolitan University |MASc in Applied Science and Management | 2002 - 2007
+
+University of Toronto | BASc in Civil Engineering | 1985 - 1989

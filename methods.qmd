@@ -1,0 +1,23 @@
+# Methods
+
+The focus here is on elucidating the key statistical approaches used on the various publications or reports cited along with providing a synopsis of the statics used, key references and sample R-scripts to for implementation.
+
+## Quantitative Trend Analysis
+
+This work on quantitative trend analysis of SARS-CoV-2 RNA in Municipal Wastewater was detailed in our 2002 publication [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestwater.2c00058). The data sets are available for download at 
+
+**Statistics**: 
+
+**Key Statistical References**:
+
+**Sample R Script**
+
+
+2.    Vince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 [Pileggi et al, 2022](https://pubs.acs.org/doi/10.1021/acsestengg.2c00005)
+
+**Statistics**: Detected and modeled microbial
+
+
+**Key Statistical References**:
+
+**R Script**

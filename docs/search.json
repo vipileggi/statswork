@@ -96,5 +96,47 @@
     "title": "Projects",
     "section": "Performance of Decentralized Wastewater Technologies",
     "text": "Performance of Decentralized Wastewater Technologies\nReported based on a statistical technical review results of performance of decentralized onsite treatment technologies."
+  },
+  {
+    "objectID": "index2.html",
+    "href": "index2.html",
+    "title": "Vince Pileggi",
+    "section": "",
+    "text": "Vince Pileggi is wastewater engineer, adjunct professor, data scientist and uses advanced applied statistical analytical skills heavily in his work. He uses R, RStudio, Quarto and GitHub proficiently for advanced research and authorship of publications and reports. Vince enjoys early morning jogging."
+  },
+  {
+    "objectID": "index2.html#experince",
+    "href": "index2.html#experince",
+    "title": "Vince Pileggi",
+    "section": "Experince",
+    "text": "Experince\nEpidemiology Computational Statistical Products | MECP | 2021 - Present\nResearcher and Scientific Programmer | University of Guelph, MECP | 2016 - Present\nAuthor of Technical Guidance | MECP | 2002 - Present\nTechnology Performance Reviewer | MECP | 2002 - Present"
+  },
+  {
+    "objectID": "index2.html#education",
+    "href": "index2.html#education",
+    "title": "Vince Pileggi",
+    "section": "Education",
+    "text": "Education\nUniversity of Waterloo | PhD in Wastewater Engineering | 2008 - 2016\nToronto Metropolitan University |MASc in Applied Science and Management | 2002 - 2007\nUniversity of Toronto | BASc in Civil Engineering | 1985 - 1989"
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "The focus here is on elucidating the key statistical approaches used on the various publications or reports cited along with providing sample R-scripts to show example applications.\n\n\nThis work on quantitative trend analysis of SARS-CoV-2 RNA in Municipal Wastewater was detailed in our 2002 publication Pileggi et al, 2022. The\nStatistics:\nKey Statistical References:\nSample R Script\n\nVince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 Pileggi et al, 2022\n\nStatistics: Detected and modeled microbial\nKey Statistical References:\nR Script"
+  },
+  {
+    "objectID": "methods.html#quantitative-trend-analysis",
+    "href": "methods.html#quantitative-trend-analysis",
+    "title": "Methods",
+    "section": "",
+    "text": "This work on quantitative trend analysis of SARS-CoV-2 RNA in Municipal Wastewater was detailed in our 2002 publication Pileggi et al, 2022. The\nStatistics:\nKey Statistical References:\nSample R Script\n\nVince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 Pileggi et al, 2022\n\nStatistics: Detected and modeled microbial\nKey Statistical References:\nR Script"
+  },
+  {
+    "objectID": "statistics.html",
+    "href": "statistics.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nPileggi, V., Shurgold, J., et al. Quantitative Trend Analysis of SARS-CoV-2 RNA in Municipal Wastewater Exemplified with Sewershed-Specific COVID-19 Clinical Case Counts. ACS EST Water 2, 2070–2083 (2022) Pileggi et al, 2022.\n\nStatistics:\nKey Statistical References:\nSample R Script\n\nVince Pileggi, José R. Bicudo, Monica Nowierski, Mano Manoharan, George Lai, Tim Fletcher and Albert Simhon, Side-Stream Comparison of Peracetic Acid and Chlorine as Hypochlorite for Disinfection of Municipal Wastewater Effluent at a Full-Scale Treatment Facility, Ontario, Canada, ACS ES&T Engineering, Volume 2, Issue 8, 1465 - 1474, 2022 Pileggi et al, 2022\n\nStatistics: Detected and modeled microbial\nKey Statistical References:\nR Script"
   }
 ]
